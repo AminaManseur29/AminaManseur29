@@ -31,7 +31,7 @@ After various experiences in academia and industry, I'm considering pursuing a *
 
 - 🏝️ **KAUST (Saudi Arabia)** – 2 research projects  
   • Explored Robust and Private Multi-armed Bandits under α-contamination  
-  • Worked on Truthful High Dimensional Sparse Linear Regression (submitted to NEURIPS)
+  • Worked on Truthful High Dimensional Sparse Linear Regression (submitted to NeurIPS)
 
 - 📉 **AMSE (Aix-Marseille School of Economics)** – Research internship  
   • Worked on generating financial time series using diffusion models  
