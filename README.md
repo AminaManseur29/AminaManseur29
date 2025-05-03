@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Welcome to my GitHub profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amina%20Manseur-blue?logo=linkedin)](https://www.linkedin.com/in/amina-manseur/)
