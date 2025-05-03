@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍🎓 About me
+## 💡 About me
 
 Hi! I'm **Amina Manseur**, a final-year engineering student at **Centrale Méditerranée** and **ENSAE Paris**, specializing in **Data Science**, **Statistics**, and **Machine Learning**.
 I enjoy working on problems that blend **mathematical modeling**, **statistical learning**, and **real-world impact**.
