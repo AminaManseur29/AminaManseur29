@@ -8,9 +8,9 @@
 ## 👩‍🎓 About me
 
 Hi! I'm **Amina Manseur**, a final-year engineering student at **Centrale Méditerranée** and **ENSAE Paris**, specializing in **Data Science**, **Statistics**, and **Machine Learning**.
-
 I enjoy working on problems that blend **mathematical modeling**, **statistical learning**, and **real-world impact**.
 After various experiences in academia and industry, I'm considering pursuing a **PhD** in applied statistics or machine learning, where I can contribute to both **methodological development** and **applied insights**.
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -34,13 +34,15 @@ After various experiences in academia and industry, I'm considering pursuing a *
   • Worked on Truthful High Dimensional Sparse Linear Regression (submitted to NEURIPS)
 
 - 📉 **AMSE (Aix-Marseille School of Economics)** – Research internship  
-  • 
+  • Worked on generating financial time series using diffusion models  
+  • Initially explored diffusion models as stochastic models, implementing them and evaluating their performance empirically.
 
 - 🔌 **EDF** – Applied statistics project  
-  • 
+  • Developed prospective scenarios for electric mobility in France  
+  • Combined statistical modeling and scenario planning for future mobility trends, population growth and climate change.
 
 - 🏗️ **Bouygues Construction** – Data science apprenticeship  
-  • 
+   • Working on various projects to support operational teams by developing useful digital tools that integrate AI components to streamline the delivery of their outputs.
 
 ---
 
@@ -48,8 +50,8 @@ After various experiences in academia and industry, I'm considering pursuing a *
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **LLM Text Detection (NLP)** | | [GitHub]([https://github.com/AminaManseur29/summary-detection-ml](https://github.com/AminaManseur29/ENSAE_NLP_project) |
-| **Data Science Project Production** | | [GitHub](https://github.com/AminaManseur29/Miseenprod_projet) |
+| **LLM Text Detection (NLP)** | Developed a binary classifier to distinguish between human-written and LLM-generated texts. Combined various feature sets: advanced embeddings (BERT, RoBERTa, SentenceBERT), traditional NLP embeddings (Bag-of-Words, TF-IDF), and interpretable features based on stylistic, complexity, and psychological characteristics.| [GitHub]([https://github.com/AminaManseur29/summary-detection-ml](https://github.com/AminaManseur29/ENSAE_NLP_project) |
+| **Data Science Project Production** | Transformed an existing data science project into a production-ready pipeline. Emphasized best coding practices, automation, and reproducibility. Implemented environment management (`venv`), dependency tracking (`requirements.txt`), standardized logging, and a structured Git branching strategy to ensure smooth deployment and collaboration. | [GitHub](https://github.com/AminaManseur29/Miseenprod_projet) |
 | **(More coming soon)** | Stay tuned for additional highlighted projects from academic and research work. | – |
 
 ---
