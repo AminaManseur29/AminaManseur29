@@ -29,7 +29,7 @@ After various experiences in academia and industry, I'm considering pursuing a *
 
 ## 🔎 My recent experiences
 
-- 🏗️ **Bouygues Construction** – Data science apprenticeship  
+- 🏗️ **Bouygues Bâtiment France** – Data science apprenticeship  
    • Working on various projects to support operational teams by developing useful digital tools that integrate AI components to streamline the delivery of their outputs.
 
 - 📉 **AMSE (Aix-Marseille School of Economics)** – Research internship  
