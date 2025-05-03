@@ -50,7 +50,7 @@ After various experiences in academia and industry, I'm considering pursuing a *
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **LLM Text Detection (NLP)** | Developed a binary classifier to distinguish between human-written and LLM-generated texts. Combined various feature sets: advanced embeddings (BERT, RoBERTa, SentenceBERT), traditional NLP embeddings (Bag-of-Words, TF-IDF), and interpretable features based on stylistic, complexity, and psychological characteristics.| [GitHub]([https://github.com/AminaManseur29/summary-detection-ml](https://github.com/AminaManseur29/ENSAE_NLP_project) |
+| **LLM Text Detection (NLP)** | Developed a binary classifier to distinguish between human-written and LLM-generated texts. Combined various feature sets: advanced embeddings (BERT, RoBERTa, SentenceBERT), traditional NLP embeddings (Bag-of-Words, TF-IDF), and interpretable features based on stylistic, complexity, and psychological characteristics.| [GitHub](https://github.com/AminaManseur29/ENSAE_NLP_project) |
 | **Data Science Project Production** | Transformed an existing data science project into a production-ready pipeline. Emphasized best coding practices, automation, and reproducibility. Implemented environment management (`venv`), dependency tracking (`requirements.txt`), standardized logging, and a structured Git branching strategy to ensure smooth deployment and collaboration. | [GitHub](https://github.com/AminaManseur29/Miseenprod_projet) |
 | **(More coming soon)** | Stay tuned for additional highlighted projects from academic and research work. | – |
 
