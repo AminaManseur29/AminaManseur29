@@ -29,9 +29,8 @@ After various experiences in academia and industry, I'm considering pursuing a *
 
 ## 🔎 My recent experiences
 
-- 🏝️ **KAUST (Saudi Arabia)** – 2 research projects  
-  • Explored Robust and Private Multi-armed Bandits under α-contamination  
-  • Worked on Truthful High Dimensional Sparse Linear Regression (submitted to NeurIPS)
+- 🏗️ **Bouygues Construction** – Data science apprenticeship  
+   • Working on various projects to support operational teams by developing useful digital tools that integrate AI components to streamline the delivery of their outputs.
 
 - 📉 **AMSE (Aix-Marseille School of Economics)** – Research internship  
   • Worked on generating financial time series using diffusion models  
@@ -41,8 +40,9 @@ After various experiences in academia and industry, I'm considering pursuing a *
   • Developed prospective scenarios for electric mobility in France  
   • Combined statistical modeling and scenario planning for future mobility trends, population growth and climate change.
 
-- 🏗️ **Bouygues Construction** – Data science apprenticeship  
-   • Working on various projects to support operational teams by developing useful digital tools that integrate AI components to streamline the delivery of their outputs.
+- 🏝️ **KAUST (Saudi Arabia)** – 2 research projects  
+  • Explored Robust and Private Multi-armed Bandits under α-contamination  
+  • Worked on Truthful High Dimensional Sparse Linear Regression (submitted to NeurIPS)
 
 ---
 
