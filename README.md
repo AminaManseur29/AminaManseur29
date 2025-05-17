@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amina%20Manseur-blue?logo=linkedin)](https://www.linkedin.com/in/amina-manseur/)
 <!-- Ajoute d'autres badges si besoin -->
@@ -7,7 +7,7 @@
 
 ## 💡 About me
 
-Hi! I'm **Amina Manseur**, a final-year engineering student at **Centrale Méditerranée** and **ENSAE Paris**, specializing in **Data Science**, **Statistics**, and **Machine Learning**.
+I'm **Amina Manseur**, a final-year engineering student at **Centrale Méditerranée** and **ENSAE Paris**, specializing in **Data Science**, **Statistics**, and **Machine Learning**.
 I enjoy working on problems that blend **mathematical modeling**, **statistical learning**, and **real-world impact**.
 After various experiences in academia and industry, I'm considering pursuing a **PhD** in applied statistics or machine learning, where I can contribute to both **methodological development** and **applied insights**.
 
